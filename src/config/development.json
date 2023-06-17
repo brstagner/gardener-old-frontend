@@ -1,0 +1,5 @@
+{
+  "REACT_APP_BASE_URL": "http://localhost:3000/",
+  "TREFLE_BASE_URL": "https://trefle.io/api/v1/",
+  "TREFLE_TOKEN": "zKqlw8Nm_0s-M0NQVog6rfyHSpXyyqjgq_8Jsq0_gVI"
+}
